@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content": "come and get your love come and get your love now",
+        "date": "2023-01-26T19:20:14.298Z",
+        "important": true
+}
